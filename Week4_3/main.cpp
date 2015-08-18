@@ -20,7 +20,7 @@ public:
 		return ints[i*col + j];
 	}
 
-	friend ostream & operator << (ostream & os, const Array2 & array2);
+	//friend ostream & operator << (ostream & os, const Array2 & array2);
 };
 
 
